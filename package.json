@@ -1,0 +1,15 @@
+{
+  "name": "inquirer",
+  "version": "1.0.0",
+  "description": "Provides error feedback and asks questions",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hangman-constructor"
+  },
+  "author": "sakiohma",
+  "license": "ISC"
+}
